@@ -13,6 +13,10 @@ redirect_from:
 
 ---
 
+<h2 style="text-align: center;">Arpan Pal</h2>
+<center> Office: Blocker 625X, TAMU, College Station, TX</center>
+
+[arpan@tamu.edu](mailto:arpan@tamu.edu), [arpan.sanju@gmail.com](mailto:arpan.sanju@gmail.com)
 
 Education
 ===
