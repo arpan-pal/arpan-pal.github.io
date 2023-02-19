@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final year PhD student in Math at Texas A&M University. My primary research interest lies in Geometric Complexity Theory and I am working under the supervision of [Prof Joseph M Landsberg](https://math.tamu.edu/~jml)
+I am a final year PhD student in Math at Texas A&M University. My primary research interest lies in Geometric Complexity Theory and I am working under the supervision of [Prof Joseph M Landsberg](https://math.tamu.edu/~jml).
 
 
 

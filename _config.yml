@@ -81,12 +81,13 @@ analytics:
 author:
   name             : "Arpan Pal"
   avatar           : "Headshot.jpeg"
-  bio              : 'Mathematics Researcher  |  Data Scientist' 
+  bio              : "Mathematics Researcher || Data Scientist || Cyclist" 
   location         : "College Station, Texas"
   employer         : "Texas A&M University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=a5MbzwoAAAAJ&hl=en"
   email            : "arpan@tamu.edu"
+  email            : "arpan.sanju@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
