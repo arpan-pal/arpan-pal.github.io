@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Download pdf version of the CV here: [CV](../files/CV.pdf) 
 
-Work experience
+---
+
+
+Education
+===
+* **Texas A&M University** <span style="float:right;">2023(Expected)</span>\
+PhD in Mathematics\
+Dissertation: _Concise Tensors of Minimal Border Rank for Fast Matrix Multiplication_
+
+
+
+* **Indian Statistical Institute** <span style="float:right">2016 - 2017</span>\
+Math PhD Coursework
+
+* **Chennai Mathematical Institute** <span style="float:right">2014 - 2016</span>\
+MSc in Mathematics\
+Thesis: _Exponential Bounds for Determinantal Complexity of the Permanent_
+
+* **University of Burdwan**<span style="float:right">2010 - 2013</span>\
+BSc(Hons) in Mathematics
+
+Technical Strenght
 ======
 * Summer 2015: Research Assistant
   * Github University
