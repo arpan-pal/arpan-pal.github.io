@@ -21,7 +21,7 @@
 <lastmod>2019-08-21T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/conferences/SIAM_2020</loc>
+<loc>http://localhost:4000/conferences/TXLA_2020</loc>
 <lastmod>2020-10-17T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -31,6 +31,14 @@
 <url>
 <loc>http://localhost:4000/conferences/AG_2021</loc>
 <lastmod>2021-08-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/conferences/TXLA_2021</loc>
+<lastmod>2021-11-07T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/conferences/AMS_2022</loc>
+<lastmod>2022-03-27T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
