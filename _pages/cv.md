@@ -82,7 +82,7 @@ Publications
 Projects
 ======
 <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-projects-cv.html %}
   {% endfor %}</ul>
 
 
