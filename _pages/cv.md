@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Download pdf version of the CV here: [CV](../files/CV.pdf) 
+### Download pdf version of my CV here: [CV](../files/CV.pdf) 
 
 ---
 
@@ -83,6 +83,13 @@ Projects
 ======
 <ul>{% for post in site.projects %}
     {% include archive-single-projects-cv.html %}
+  {% endfor %}</ul>
+
+
+Conferences and Bootcamps
+===
+<ul>{% for post in site.conferences %}
+    {% include archive-single-conferences-cv.html %}
   {% endfor %}</ul>
 
 

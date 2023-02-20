@@ -189,6 +189,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  conferences:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -260,9 +263,10 @@ defaults:
       path: ""
       type: conferences
     values:
-      layout: talk
+      layout: single
       author_profile: true
-      share: true
+      share: false
+      comments: true
 
 # Sass/SCSS
 sass:
