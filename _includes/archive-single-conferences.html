@@ -45,9 +45,12 @@
           {% elsif post.collection == 'conferences' %}
           {% if post.date_from and post.date_to %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date_from | date: '%B %d, %Y' }} - {{ post.date_to | date: '%B %d, %Y' }} </p>
           {% elsif post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}</p>{% endif %}
-          {% if post.venue and post.location %}<p class="archive__item-excerpt" itemprop="description">At <i>{{ post.venue }},</i>  {{post.location}}</p> 
+          {% if post.venue and post.location %}<p class="archive__item-excerpt" itemprop="description">At <i>{{ post.venue }},</i>  {{post.location}} </p> 
           {% elsif post.venue %}<p class="archive__item-excerpt" itemprop="description">At <i>{{ post.venue }}</i></p>
-          {% elsif post.location %}<p class="archive__item-excerpt" itemprop="description">{{ post.location }}</p>{% endif %}
+          {% elsif post.location %}<p class="archive__item-excerpt" itemprop="description">{{ post.location }}
+            {% if post.conferenceurl %}<br> <i> Conference <a href=" {{ post.conferenceurl }} "> website </a> </i></br>
+            {% endif %}
+          </p>{% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -58,9 +61,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.conferenceurl %}
+    <!--{% if post.conferenceurl %}
       <p>Please find the conference webpage: <a href=" {{ post.conferenceurl }} ">here</a></p>
-    {% endif %}
+    {% endif %}-->
 
   </article>
 </div>
