@@ -8,6 +8,6 @@ date: 2021-11-05
 location: "South Padre Island, TX, USA"
 ---
 
-Gave a talk at SIAM Texas Louisiana sectional meeting.
+Attended the conference and gave a talk at the 4th Annual meeting of SIAM Texas Louisiana Section, hosted by UT Rio Garnde Valley in South Padre Island.
 
 Please find the slides [here](../files/SIAM_TXLA_2021.pdf)
