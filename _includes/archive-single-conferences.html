@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.collection == 'conferences' %}
+        {% elsif post.collection == 'conferences' %}
           {% if post.date_from and post.date_to %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date_from | date: '%B %d, %Y' }} - {{ post.date_to | date: '%B %d, %Y' }} </p>
           {% elsif post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}</p>{% endif %}
           {% if post.venue and post.location %}<p class="archive__item-excerpt" itemprop="description">At <i>{{ post.venue }},</i>  {{post.location}}.{% if post.conferenceurl %} <br> <i> Conference <a href=" {{ post.conferenceurl }} "> website </a> </i>  {% endif %} </p> 
