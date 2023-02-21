@@ -11,4 +11,4 @@ location: 'Honolulu, HI, USA'
 conferenceurl: "https://sites.google.com/iit.edu/as2022"
 ---
 
-Attended a conference on Algebraic Statistics ([AS2022](https://sites.google.com/iit.edu/as2022)) at University of Hawai'i at Manoa, Honolulu, HI, USA
+Attended a conference on Algebraic Statistics ([AS2022](https://sites.google.com/iit.edu/as2022)) at University of Hawai'i at Manoa, Honolulu, HI, USA.
