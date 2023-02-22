@@ -19,8 +19,14 @@ redirect_from:
 <a  href="mailto:arpan@tamu.edu"> arpan@tamu.edu</a>,
 <a  href="mailto:arpan.sanju@gmail.com"> arpan.sanju@gmail.com</a></p>
 
+--- 
+
 Education
 ===
+
+---
+
+
 * **Texas A&M University** <span style="float:right;">2023(Expected)</span>\
 PhD in Mathematics\
 Dissertation: _Concise Tensors of Minimal Border Rank for Fast Matrix Multiplication_
@@ -38,9 +44,13 @@ Thesis: _Exponential Bounds for Determinantal Complexity of the Permanent_
 BSc(Hons) in Mathematics
 
 
+---
 
 Technical Strength
-======
+===
+
+---
+
 * **Languages and tools**: &nbsp;&nbsp;&nbsp; Python, SQL, R, MATLAB, SageMath, Octave, VOSviewer, GitHub, LaTeX
 
 * **AI/ML**: &nbsp;&nbsp;&nbsp; Various ML algorithms, NLP, RNN, LSTM, BERT, Compuer Vision, CNN,
@@ -48,9 +58,13 @@ Scikit-Learn, TensorFlow, Keras, PyTorch, Plotly-DASH
 
 * **Operating System**: &nbsp;&nbsp;&nbsp; Mac, Linux, Windows
 
+---
 
 Teaching
 ===
+
+---
+
 **Graduate Assistant** <span style="float:right">Sept 2017 - Current</span>\
 Texas A&M University <span style="float:right"><i>College Station, TX</i></span>
 
@@ -70,17 +84,25 @@ Texas A&M University<span style="float:right"><i>College Station, TX</i></span>
 * Mentored a senior undergraduate student through a machine learning course followed by a project to build a model for stock price prediction
 
 
+---
 
 Publications
-======
+===
+
+---
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
+---
 
 Projects
-======
+===
+
+---
+
 <ul>{% for post in site.projects %}
     {% include archive-single-projects-cv.html %}
   {% endfor %}</ul>
