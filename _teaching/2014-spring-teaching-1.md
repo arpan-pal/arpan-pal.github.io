@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Engineering Calculus I"
+permalink: /teaching/Fall_2019
+venue: "Texas A&M University, Mathematics"
+date: 2019-03-01
+location: "College Station, TX, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as teaching assistant for Engineering Calculus-I [(MATH 151)](https://www.math.tamu.edu/courses/math151/) course during the Fall 2019 semester.
 
-Heading 1
-======
+Duties:
+===
 
-Heading 2
-======
-
-Heading 3
-======
+* Taught in-class recitations.
+* Made and graded quizzes.
+* Graded exams.
+* Taught MATLAB and graded MATLAB quizzes.
