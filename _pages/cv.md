@@ -39,7 +39,7 @@ BSc(Hons) in Mathematics
 
 
 
-Technical Strenght
+Technical Strength
 ======
 * **Languages and tools**: &nbsp;&nbsp;&nbsp; Python, SQL, R, MATLAB, SageMath, Octave, VOSviewer, GitHub, LaTeX
 
