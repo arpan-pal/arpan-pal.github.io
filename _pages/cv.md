@@ -122,9 +122,31 @@ Talks
   
 ---
 
-Service and leadership
+Service and Leadership
 ======
 
 ---
 
-* _Being updated..._
+<u>Organized</u> <i> Graduate Algebra Symposium</i>
+
+* 2023 - at Texas A&M University
+* 2022 - at UT Arlington
+
+<u>Volunteered</u> at <i> Stat Math Fair, Texas A&M University </i>
+
+* 2023
+* 2022
+* 2018
+
+<u>Served</u> for <i>Math Grad Diversity Committee, Texas A&M University</i>
+
+* 2023 - President
+* 2022 - President
+* 2021 - Member
+* 2021 - Member
+
+<u>Panelist</u> at <i>Discussion with REU students, MSRI, UC Berkeley</i>
+
+* 2022
+
+
