@@ -48,6 +48,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -288,6 +289,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
