@@ -143,6 +143,14 @@
 <lastmod>2022-10-07T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/teaching/Fall_2017</loc>
+<lastmod>2017-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/Spring_2018</loc>
+<lastmod>2018-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/Fall_2018</loc>
 <lastmod>2018-10-01T00:00:00-07:00</lastmod>
 </url>
@@ -173,6 +181,10 @@
 <url>
 <loc>http://localhost:4000/teaching/Fall_2022</loc>
 <lastmod>2022-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/Spring_2023</loc>
+<lastmod>2023-03-01T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

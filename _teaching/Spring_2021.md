@@ -9,7 +9,7 @@ date: 2021-03-01
 location: "College Station, TX, USA"
 ---
 
-Served as grader for Graduate level Differential Geometry-I course [(MATH 622)](https://www.math.tamu.edu/courses/math622/) course during the Spring 2021 semester.
+Served as grader for graduate level Differential Geometry-I [(MATH 622)](https://www.math.tamu.edu/courses/math622/) course during the Spring 2021 semester.
 
 Duties:
 ===

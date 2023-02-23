@@ -65,18 +65,9 @@ Teaching
 
 ---
 
-**Graduate Assistant** <span style="float:right">Sept 2017 - Current</span>\
-Texas A&M University <span style="float:right"><i>College Station, TX</i></span>
-
-* Spring 2023: Grader for Linear Algebra
-* Fall 2022: Teaching Assistant for Engineering Calculus II
-* Spring 2022: Instructor for Finite Math (MATH 168)
-* Spring 2021: Grader for Graduate Differential Geometry-I
-* Spring 2020: Instructor for Calculus I
-* Fall 2019: Teaching Assistant for Engineering Calculus II
-* Summer 2019: TA for Graduate Algebra Qual Prep
-* Spring 2019: Teaching Assistant for Calculus II
-* Fall 2019: Teaching Assistant for Engineering Calculus I
+ <ul>{% for post in site.teaching %}
+    {% include archive-single-teaching-cv.html %}
+  {% endfor %}</ul>
 
 **Directed Reading Program Mentor**<span style="float:right">Spring 2022</span>\
 Texas A&M University<span style="float:right"><i>College Station, TX</i></span>
@@ -127,17 +118,6 @@ Talks
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
----
-
-Teaching
-======
-
----
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-teaching-cv.html %}
   {% endfor %}</ul>
   
 ---
