@@ -9,7 +9,7 @@ date: 2019-07-01
 location: "College Station, TX, USA"
 ---
 
-Served as instructor for Graduate Algebra Qualifier Preperation class.
+Served as instructor for Graduate Algebra Qualifier Preperation class during the Summer 2019 semester.
 
 Duties:
 ===
