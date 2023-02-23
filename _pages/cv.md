@@ -138,6 +138,10 @@ Service and Leadership
 * 2022
 * 2018
 
+<u>Volunteered</u> at <i> Math Circle, Texas A&M University </i>
+
+* 2023
+
 <u>Served</u> for <i>Math Grad Diversity Committee, Texas A&M University</i>
 
 * 2023 - President
