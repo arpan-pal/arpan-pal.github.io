@@ -70,7 +70,7 @@ Selected Courses
 
 * Mathematical Algorithms and their Implementations, _Texas A&M Univeristy_
 
-* Accelerating Deep Learningwith GPUs, _CognitiveClass.AI_, [certificate](../files/Certificates/IBM%20ML0122ENv3%20Certificate%20_%20Cognitive%20Class.pdf)
+* Accelerating Deep Learningwith GPUs, _cognitiveclass.AI_, [certificate](../files/Certificates/IBM%20ML0122ENv3%20Certificate%20_%20Cognitive%20Class.pdf)
 
 * Data Science Professional Certificate (V2), _IBM through Coursera_, [Certificate](../files/Certificates/DataScienceProfessionalCertificateV2_Badge20230201-35-1jfqqiw.pdf)
 
