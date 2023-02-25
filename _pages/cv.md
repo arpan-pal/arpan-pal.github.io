@@ -69,11 +69,6 @@ Teaching
     {% include archive-single-teaching-cv.html %}
   {% endfor %}</ul>
 
-**Directed Reading Program Mentor**<span style="float:right">Spring 2022</span>\
-Texas A&M University<span style="float:right"><i>College Station, TX</i></span>
-
-* Mentored a senior undergraduate student through a machine learning course followed by a project to build a model for stock price prediction
-
 
 ---
 
