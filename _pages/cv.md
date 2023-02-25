@@ -60,6 +60,52 @@ Scikit-Learn, TensorFlow, Keras, PyTorch, Plotly-DASH
 
 ---
 
+Selected Courses
+===
+---
+
+* Principles of Deep Learning, _Texas A&M University_
+
+* Data Science, _Texas A&M University_
+
+* Mathematical Algorithms and their Implementations, _Texas A&M Univeristy_
+
+* Accelerating Deep Learningwith GPUs, _CognitiveClass.AI_, [certificate](../files/Certificates/IBM%20ML0122ENv3%20Certificate%20_%20Cognitive%20Class.pdf)
+
+* Data Science Professional Certificate (V2), _IBM through Coursera_, [Certificate](../files/Certificates/DataScienceProfessionalCertificateV2_Badge20230201-35-1jfqqiw.pdf)
+
+* Python Project for Data Science, _IBM through Coursera_, [Badge](https://www.credly.com/badges/fc196f2b-f444-4f88-9c88-4237fa830761)
+
+* Data Visualization with Python, _IBM through Coursera_, [Badge](https://www.credly.com/badges/fe7411e0-c165-45e1-8edf-48f8fccaaf36)
+
+* Machine Learning with Python, _IBM through Coursera_, [Badge](https://www.credly.com/badges/7bf659dc-c2a9-4a7b-8f6e-94ca4c4d6e2a)
+
+* Data Analysis with Python, _IBM through Coursera_, [Badge](https://www.credly.com/badges/216e8447-918c-4520-8693-fe90540db60d)
+
+* Databases and SQL for Data Science,  _IBM through Coursera_, [Badge](https://www.credly.com/badges/8c008eaa-ef5f-4b71-a1e2-557b8457cc29)
+
+* Data Science Methodology, _IBM through Coursera_, [Badge](https://www.credly.com/badges/68ab25e5-af37-4402-b48e-d3c6d8a641ed)
+
+* Tools for Data Science, _IBM through Coursera_, [Badge](https://www.credly.com/badges/5128c913-e48a-4cc3-9f68-477f2f1b6ea7)
+
+* Python for Data Science and AI, _IBM through Coursera_, [Badge](https://www.credly.com/badges/97492558-192b-4900-bd62-5ce0d24ee790)
+
+* Data Science Orientation, _IBM throug Coursera_, [Badge](https://www.credly.com/badges/7819e192-3ce8-48f0-bd81-94f9df1d142a)
+
+* Deep Learning Sequence, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%20Sequence%20Certificate.pdf)
+
+* Sequence Models, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%205%20Certificate.pdf)
+
+* Convolutional Neural Network, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%204%20Certificate.pdf)
+
+* Structuring Machine Learning Projects, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%203%20Certificate.pdf)
+
+* Improving Deep Neural Networks, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%202%20Certificate.pdf)
+
+* Neural Networks and Deep Learning, _DeepLearning.AI_, [Certificate](../files/Certificates/Deep%20Learning%201%20Certificate.pdf)
+
+* Machine Learning, _Stanford University_, [Certificate](../files/Certificates/Machine%20Learning%20Certificate.pdf)
+
 Teaching
 ===
 
