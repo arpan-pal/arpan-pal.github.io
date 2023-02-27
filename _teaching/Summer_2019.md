@@ -4,7 +4,7 @@ collection: teaching
 type: "Algebra Qualifier Prep"
 permalink: /teaching/Summer_2019
 venue: "Texas A&M University, Mathematics"
-semester: "Spring"
+semester: "Summer"
 date: 2019-07-01
 location: "College Station, TX, USA"
 ---
