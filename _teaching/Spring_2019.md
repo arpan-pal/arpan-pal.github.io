@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Engineering Calculus II"
+type: "Calculus II for Biological Sciences"
 permalink: /teaching/Spring_2019
 venue: "Texas A&M University, Mathematics"
 semester: "Spring"
@@ -9,7 +9,7 @@ date: 2019-03-01
 location: "College Station, TX, USA"
 ---
 
-Served as teaching assistant for Engineering Calculus-II [(MATH 152)](https://www.math.tamu.edu/courses/math152/) course during the Spring 2019 semester.
+Served as teaching assistant for Calculus-II for Biological Sciences [(MATH 148)](https://www.math.tamu.edu/courses/math148/) course during the Spring 2019 semester.
 
 Duties:
 ===
@@ -17,4 +17,3 @@ Duties:
 * Taught in-class recitations.
 * Made and graded quizzes.
 * Graded exams.
-* Taught MATLAB and graded MATLAB assignments.
