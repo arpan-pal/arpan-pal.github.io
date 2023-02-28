@@ -107,6 +107,7 @@ Selected Courses
 * Machine Learning, _Stanford University_, [Certificate](../files/Certificates/Machine%20Learning%20Certificate.pdf)
 
 ---
+
 Teaching
 ===
 
