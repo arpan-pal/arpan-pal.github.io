@@ -143,6 +143,10 @@
 <lastmod>2022-10-07T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/talks/TTU_2023</loc>
+<lastmod>2023-04-05T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/Fall_2017</loc>
 <lastmod>2017-10-01T00:00:00-07:00</lastmod>
 </url>
@@ -329,6 +333,10 @@
 <url>
 <loc>http://localhost:4000/files/SIAM_TXLA_2021.pdf</loc>
 <lastmod>2023-02-18T20:26:03-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/Staged_Tree_Toric_Lie_Algebra.pdf</loc>
+<lastmod>2023-04-05T12:41:40-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>
