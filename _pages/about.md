@@ -17,8 +17,6 @@ I develop AI and large language model(LLM) powered tools to streamline workflow 
 
 Before joining my current job at the University of Idaho I completed my PhD in Mathematics at Texas A&M University with my primary research area lying in Geometric Complexity Theory, under the supervision of [Prof Joseph M Landsberg](https://math.tamu.edu/~jml).
 
-<!-- I am a final year PhD student in Math at Texas A&M University. My primary research interest lies in Geometric Complexity Theory and I am working under the supervision of [Prof Joseph M Landsberg](https://math.tamu.edu/~jml). -->
-
 
 
 As a PhD in Mathematics with a focus in Theoretical Computer Science and Complexity Theory, I have worked on the
@@ -28,3 +26,6 @@ using Coppersmith-Winograd tensor. My research focuses on studying the geometric
 their applications in fields such as Phylogenetics and Algebraic Statistics. I have also worked on problems related
 to Algebraic Statistics and Convolution Neural Networks, and have a deep understanding of Algebraic Geometry,
 Representation Theory, Lie Algebras, Deep Learning, and Statistics.
+
+
+<!-- I am a final year PhD student in Math at Texas A&M University. My primary research interest lies in Geometric Complexity Theory and I am working under the supervision of [Prof Joseph M Landsberg](https://math.tamu.edu/~jml). -->
